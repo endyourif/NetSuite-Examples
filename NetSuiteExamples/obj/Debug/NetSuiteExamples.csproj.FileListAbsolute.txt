@@ -1,0 +1,7 @@
+C:\GitHub\NetSuiteExamples\NetSuiteExamples\bin\Debug\NetSuiteExamples.exe.config
+C:\GitHub\NetSuiteExamples\NetSuiteExamples\bin\Debug\NetSuiteExamples.exe
+C:\GitHub\NetSuiteExamples\NetSuiteExamples\bin\Debug\NetSuiteExamples.pdb
+C:\GitHub\NetSuiteExamples\NetSuiteExamples\obj\Debug\NetSuiteExamples.csprojAssemblyReference.cache
+C:\GitHub\NetSuiteExamples\NetSuiteExamples\obj\Debug\NetSuiteExamples.csproj.CoreCompileInputs.cache
+C:\GitHub\NetSuiteExamples\NetSuiteExamples\obj\Debug\NetSuiteExamples.exe
+C:\GitHub\NetSuiteExamples\NetSuiteExamples\obj\Debug\NetSuiteExamples.pdb
